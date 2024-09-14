@@ -1,4 +1,4 @@
-# 👋 Sayfiddin Mirkamolov
+# 👋 I'm Sayfiddin Mirkamolov
 
 ## 🧑‍💻 Frontend Developer
 
