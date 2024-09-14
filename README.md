@@ -23,7 +23,5 @@
 
 ### ⚡ Additional Tools:
 
-- **Linux**
 - **VS Code**
-- **Firebase**
 - **Vercel**
